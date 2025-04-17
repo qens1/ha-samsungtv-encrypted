@@ -8,8 +8,8 @@ Usage: get_token.py [options]
 
 Available options:
 
---ip, -i \tSmart TV IP address
---port, -p \tSmart TV port
+--192.168.0.10, -i \tSmart TV IP address
+--8080, -p \tSmart TV port
 -h \t\t Show this help message
 '''
 
